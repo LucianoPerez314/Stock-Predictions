@@ -1,2 +1,1 @@
-# Stock-Predictions
-Analyzes stock datasets using Markov chains.
+This code should be run at https://py3.codeskulptor.org/
